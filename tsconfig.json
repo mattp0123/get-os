@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "CommonJS",
+    "target": "ESNext",
+    "declaration": true,
+    "esModuleInterop": true,
+    "outDir": "out"
+  }
+}

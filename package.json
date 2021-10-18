@@ -1,0 +1,18 @@
+{
+  "name": "@mattp0123/get-platform",
+  "version": "1.0.1",
+  "description": "Get user platform (iOS, Android, Others)",
+  "main": "out/index.js",
+  "types": "out/index.d.ts",
+  "files": [
+    "out"
+  ],
+  "repository": "https://github.com/mattp0123/get-platform",
+  "homepage": "https://github.com/mattp0123/get-platform#readme",
+  "author": "Matt Peng",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "yarn build"
+  }
+}
